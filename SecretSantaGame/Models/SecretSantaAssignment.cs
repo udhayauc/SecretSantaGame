@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace SecretSantaGame.Models
 {
-    public class Employee
+    public class SecretSantaAssignment
     {
-        public string Name { get; set; }
-        public int Email { get; set; }
+        public Employee Santa { get; set; }
+        public Employee SecretChild { get; set; }
     }
 }
