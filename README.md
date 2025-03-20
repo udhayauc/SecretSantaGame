@@ -1,5 +1,3 @@
-# SecretSantaGame
-
 SecretSantaGame/
 │── SecretSantaGame.sln
 │── README.md
