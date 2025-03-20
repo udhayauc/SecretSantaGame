@@ -9,6 +9,6 @@ namespace SecretSantaGame.Models
     public class Employee
     {
         public string Name { get; set; }
-        public int Email { get; set; }
+        public string Email { get; set; }
     }
 }
